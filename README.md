@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parth-singh26
 - 👀 I’m interested in coding & hacking..
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parthsingh2610@gmail.com
 - 😄 Pronouns: Roaster.
